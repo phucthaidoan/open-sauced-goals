@@ -2,32 +2,32 @@
   {
     "full_name": "VirtoCommerce/vc-platform",
     "stargazers_count": 947,
-    "open_issues_count": 60,
-    "forks_count": 784
+    "open_issues_count": 61,
+    "forks_count": 785
   },
   {
     "full_name": "pereiren/dotnet-template-onion",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 0,
     "forks_count": 51
   },
   {
     "full_name": "mjebrahimi/Awesome-Microservices-NetCore",
-    "stargazers_count": 1546,
+    "stargazers_count": 1551,
     "open_issues_count": 0,
-    "forks_count": 229
+    "forks_count": 231
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 37170,
+    "stargazers_count": 37209,
     "open_issues_count": 10,
-    "forks_count": 4361
+    "forks_count": 4370
   },
   {
     "full_name": "JoseDeFreitas/awesome-youtubers",
-    "stargazers_count": 2894,
+    "stargazers_count": 2903,
     "open_issues_count": 1,
-    "forks_count": 214
+    "forks_count": 215
   },
   {
     "full_name": "arduosoft/RawCMS",
@@ -38,42 +38,42 @@
   {
     "full_name": "jamesmh/coravel",
     "stargazers_count": 2002,
-    "open_issues_count": 47,
+    "open_issues_count": 46,
     "forks_count": 171
   },
   {
     "full_name": "rafaelfgx/DotNetCore",
     "stargazers_count": 254,
     "open_issues_count": 0,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 7406,
-    "open_issues_count": 536,
-    "forks_count": 2331
+    "stargazers_count": 7427,
+    "open_issues_count": 548,
+    "forks_count": 2339
   },
   {
     "full_name": "hassanhabib/OtripleS",
-    "stargazers_count": 182,
-    "open_issues_count": 75,
-    "forks_count": 98
+    "stargazers_count": 183,
+    "open_issues_count": 117,
+    "forks_count": 99
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 67061,
-    "open_issues_count": 2010,
-    "forks_count": 3768
+    "stargazers_count": 67203,
+    "open_issues_count": 2023,
+    "forks_count": 3785
   },
   {
     "full_name": "ardalis/ApiEndpoints",
-    "stargazers_count": 1523,
+    "stargazers_count": 1535,
     "open_issues_count": 10,
     "forks_count": 122
   },
   {
     "full_name": "AnkitSharma-007/BookCart",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 5,
     "forks_count": 81
   },
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "PiranhaCMS/piranha.core",
-    "stargazers_count": 1490,
-    "open_issues_count": 104,
+    "stargazers_count": 1495,
+    "open_issues_count": 106,
     "forks_count": 436
   },
   {
     "full_name": "ardalis/CleanArchitecture",
-    "stargazers_count": 9260,
+    "stargazers_count": 9292,
     "open_issues_count": 18,
-    "forks_count": 1692
+    "forks_count": 1704
   },
   {
     "full_name": "json-api-dotnet/JsonApiDotNetCore",
-    "stargazers_count": 536,
+    "stargazers_count": 537,
     "open_issues_count": 38,
     "forks_count": 145
   },
   {
     "full_name": "proudmonkey/AutoWrapper",
-    "stargazers_count": 508,
+    "stargazers_count": 510,
     "open_issues_count": 23,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "rafaelfgx/Architecture",
-    "stargazers_count": 2339,
+    "stargazers_count": 2341,
     "open_issues_count": 0,
     "forks_count": 612
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "joaomatossilva/DateTimeExtensions",
-    "stargazers_count": 407,
+    "stargazers_count": 410,
     "open_issues_count": 10,
     "forks_count": 85
   },
   {
     "full_name": "aspnetrun/run-aspnetcore",
-    "stargazers_count": 321,
+    "stargazers_count": 324,
     "open_issues_count": 3,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 4174,
-    "open_issues_count": 8,
+    "stargazers_count": 4187,
+    "open_issues_count": 6,
     "forks_count": 1248
   },
   {
     "full_name": "petehunt/react-howto",
-    "stargazers_count": 11507,
+    "stargazers_count": 11510,
     "open_issues_count": 41,
     "forks_count": 790
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 19774,
+    "stargazers_count": 19786,
     "open_issues_count": 54,
-    "forks_count": 1070
+    "forks_count": 1072
   }
 ]
