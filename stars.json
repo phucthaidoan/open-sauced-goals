@@ -1,8 +1,8 @@
 [
   {
     "full_name": "VirtoCommerce/vc-platform",
-    "stargazers_count": 1023,
-    "open_issues_count": 58,
+    "stargazers_count": 1024,
+    "open_issues_count": 59,
     "forks_count": 817
   },
   {
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "mjebrahimi/Awesome-Microservices-NetCore",
-    "stargazers_count": 1822,
+    "stargazers_count": 1827,
     "open_issues_count": 2,
     "forks_count": 275
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 38943,
-    "open_issues_count": 13,
-    "forks_count": 4586
+    "stargazers_count": 39029,
+    "open_issues_count": 14,
+    "forks_count": 4590
   },
   {
     "full_name": "JoseDeFreitas/awesome-youtubers",
-    "stargazers_count": 3197,
+    "stargazers_count": 3211,
     "open_issues_count": 2,
     "forks_count": 234
   },
@@ -38,7 +38,7 @@
   {
     "full_name": "jamesmh/coravel",
     "stargazers_count": 2144,
-    "open_issues_count": 57,
+    "open_issues_count": 58,
     "forks_count": 180
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 8172,
-    "open_issues_count": 666,
-    "forks_count": 2584
+    "stargazers_count": 8186,
+    "open_issues_count": 671,
+    "forks_count": 2586
   },
   {
     "full_name": "hassanhabib/OtripleS",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 74362,
-    "open_issues_count": 2779,
+    "stargazers_count": 74437,
+    "open_issues_count": 2790,
     "forks_count": 4211
   },
   {
     "full_name": "ardalis/ApiEndpoints",
-    "stargazers_count": 2176,
-    "open_issues_count": 12,
+    "stargazers_count": 2180,
+    "open_issues_count": 13,
     "forks_count": 148
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "csinn/CSInn",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 37,
     "forks_count": 8
   },
@@ -97,37 +97,37 @@
   },
   {
     "full_name": "PiranhaCMS/piranha.core",
-    "stargazers_count": 1608,
+    "stargazers_count": 1610,
     "open_issues_count": 100,
-    "forks_count": 459
+    "forks_count": 460
   },
   {
     "full_name": "ardalis/CleanArchitecture",
-    "stargazers_count": 10538,
-    "open_issues_count": 26,
-    "forks_count": 1931
+    "stargazers_count": 10553,
+    "open_issues_count": 27,
+    "forks_count": 1936
   },
   {
     "full_name": "json-api-dotnet/JsonApiDotNetCore",
-    "stargazers_count": 568,
-    "open_issues_count": 36,
+    "stargazers_count": 569,
+    "open_issues_count": 37,
     "forks_count": 146
   },
   {
     "full_name": "proudmonkey/AutoWrapper",
-    "stargazers_count": 566,
-    "open_issues_count": 33,
+    "stargazers_count": 567,
+    "open_issues_count": 34,
     "forks_count": 67
   },
   {
     "full_name": "rafaelfgx/Architecture",
-    "stargazers_count": 2530,
+    "stargazers_count": 2534,
     "open_issues_count": 0,
-    "forks_count": 668
+    "forks_count": 670
   },
   {
     "full_name": "MisterJames/GenFu",
-    "stargazers_count": 751,
+    "stargazers_count": 752,
     "open_issues_count": 44,
     "forks_count": 96
   },
@@ -140,18 +140,18 @@
   {
     "full_name": "microsoft/MCW-Modern-cloud-apps",
     "stargazers_count": 110,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 131
   },
   {
     "full_name": "mohnkhan/Free-OReilly-Books",
-    "stargazers_count": 644,
+    "stargazers_count": 646,
     "open_issues_count": 1,
     "forks_count": 226
   },
   {
     "full_name": "joaomatossilva/DateTimeExtensions",
-    "stargazers_count": 440,
+    "stargazers_count": 441,
     "open_issues_count": 10,
     "forks_count": 89
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 4595,
-    "open_issues_count": 7,
-    "forks_count": 1318
+    "stargazers_count": 4602,
+    "open_issues_count": 6,
+    "forks_count": 1321
   },
   {
     "full_name": "petehunt/react-howto",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 20432,
+    "stargazers_count": 20455,
     "open_issues_count": 55,
-    "forks_count": 1106
+    "forks_count": 1108
   }
 ]
